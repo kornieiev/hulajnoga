@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Image = styled.img`
-  width: 320px;
+  max-width: 320px;
   border: 0.5px solid grey;
   margin-bottom: 5px;
   margin-left: auto;
@@ -11,7 +11,7 @@ export const Image = styled.img`
 export const Header = styled.h1`
   display: flex;
   justify-content: center;
-  width: 450px;
+  max-width: 400px;
   font-size: 36px;
   color: red;
   /* border: 2px solid blue; */
@@ -24,7 +24,7 @@ export const Header = styled.h1`
 export const Header2 = styled.h2`
   display: flex;
   justify-content: center;
-  width: 450px;
+  max-width: 400px;
   font-size: 24px;
   color: brown;
   margin-bottom: 5px;
