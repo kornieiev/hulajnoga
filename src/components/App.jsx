@@ -16,6 +16,7 @@ export const App = () => {
       }}
     >
       <Header>Na terenie szkoły 340</Header>
+      <Header2>13 grudnia</Header2>
       <Header>zaginęła hulajnoga</Header>
       <Header2>Proszę zwrócić go właścicielowi</Header2>
       <Header2>
