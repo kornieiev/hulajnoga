@@ -11,7 +11,6 @@ export const App = () => {
         fontSize: 40,
         color: '#010101',
         flexDirection: 'column',
-        alignItems: 'normal',
         marginLeft: 'auto',
         marginRight: 'auto',
       }}
